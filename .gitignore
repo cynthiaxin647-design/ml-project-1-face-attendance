@@ -1,0 +1,17 @@
+# Python 虚拟环境
+.venv/
+
+# IDE 配置
+.idea/
+
+# 训练日志/缓存（必须忽略）
+runs/
+__pycache__/
+*.log
+
+# 隐私数据：人脸库（绝对忽略）
+face_db/
+
+# 系统文件
+.DS_Store
+Thumbs.db

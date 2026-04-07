@@ -1,0 +1,5 @@
+train: E:/ml-project-1-face-attendance/dataset/images/train
+val: E:/ml-project-1-face-attendance/dataset/images/val
+
+nc: 1
+names: ['face']
